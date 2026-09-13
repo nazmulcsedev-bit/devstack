@@ -146,50 +146,6 @@ function App() {
         </div>
       </section>
 
-      {/* Placeholder sections for navbar */}
-      <section
-        id="projects"
-        className="scroll-mt-20 py-20"
-      >
-        <div className="section-container">
-          <h2 className="text-3xl font-bold text-gray-900">
-            Projects
-          </h2>
-          <p className="mt-2 text-gray-500">
-            Explore projects built with modern development technologies.
-          </p>
-        </div>
-      </section>
-
-      <section
-        id="about"
-        className="scroll-mt-20 py-20"
-      >
-        <div className="section-container">
-          <h2 className="text-3xl font-bold text-gray-900">
-            About
-          </h2>
-          <p className="mt-2 max-w-2xl text-gray-500">
-            Dev Stack helps developers compare technologies and
-            create the right development stack for their projects.
-          </p>
-        </div>
-      </section>
-
-      <section
-        id="contact"
-        className="scroll-mt-20 py-20"
-      >
-        <div className="section-container">
-          <h2 className="text-3xl font-bold text-gray-900">
-            Contact
-          </h2>
-          <p className="mt-2 text-gray-500">
-            Get in touch with the Dev Stack team.
-          </p>
-        </div>
-      </section>
-
       <Footer />
     </div>
   );
